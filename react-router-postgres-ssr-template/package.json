@@ -37,8 +37,8 @@
     "autoprefixer": "10.4.21",
     "hono": "4.7.7",
     "postgres": "3.4.5",
-    "vite": "6.3.5",
-    "wrangler": "4.16.1"
+    "vite": "5.4.19",
+    "wrangler": "4.19.1"
   },
   "engines": {
     "node": ">=20.16.0 || >=22.3.0"
