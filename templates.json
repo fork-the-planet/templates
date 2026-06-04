@@ -95,6 +95,9 @@
     },
     "ai-brand-visibility-template": {
       "package_json_hash": "a5ba337f3cdfb3852e6316feb691ba4f9205dced"
+    },
+    "commerce-llms-txt-template": {
+      "package_json_hash": "73d700ad98c614ad2ab8b3da1ebb182cdacb94f4"
     }
   }
 }
